@@ -4,7 +4,7 @@ The bot provides short, clear answers in Indonesian based on a pre-defined exper
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 - Interactive chatbot UI built with Streamlit
 - LLM model: Gemini 2.0 Flash
 - Chat memory / conversation history
@@ -14,7 +14,7 @@ The bot provides short, clear answers in Indonesian based on a pre-defined exper
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 
 Clone repository:
 
